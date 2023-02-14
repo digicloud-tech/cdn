@@ -1,2 +1,2 @@
 # cdn
-CDN Edge Nodes
+DIGICLOUD CDN Edge Nodes
