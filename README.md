@@ -1,2 +1,2 @@
 # cdn
-Cdn nodes
+CDN Edge Nodes
